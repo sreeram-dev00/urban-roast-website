@@ -1,52 +1,34 @@
-# 🌆 Urban Roast – The Café, Restaurant & Private Party Theatre
+# Urban Roast Café Website
 
-This is a responsive website project built for **Urban Roast Café** using **Wix**, showcasing services like menu, gallery, private theatre bookings, and contact integration.
-
----
-
-## 🌐 Live Website  
-🔗 [View Urban Roast Café Website](https://sree20233.wixsite.com/urbanroast)
+A modern, mobile-responsive website for **Urban Roast Café & Private Party Theatre**, designed using **Wix** as part of a web development portfolio project.
 
 ---
 
-## 🚀 Features
-- Responsive layout for mobile and desktop
-- Private Theatre Booking page
-- Menu page with downloadable PDF
-- Gallery and Contact sections
-- Email contact form linked to café's email
-- GitHub documentation with screenshots
+## Features
+
+- Private Party Theatre Booking Section
+- Online Menu with downloadable PDF
+- Gallery & Responsive Design
+- Mobile-friendly Layout
+- Contact Section with Email Link
 
 ---
 
-## 📸 Screenshots
-![Homepage](Urbanroast-homepage-1.png)
-![Theatre Section](urbanroast-theatre.png)
+## Screenshots
+
+### Homepage
+![Homepage](urbanroast-homepage.png)
+
+### Theatre Booking
+![Theatre](urbanroast-theatre.png)
 
 ---
 
-## 🧰 Built With
-- **Wix Website Builder**
-- Embedded Google Drive PDF
-- Image galleries
-- Manual responsive design (mobile view editor)
+## Menu
+
+[Click here to view full menu (PDF)](urbanroast-menu.pdf)
 
 ---
 
-## 📄 PDF Menu
-[Download Menu](urbanroast-menu.pdf)
-
----
-
-## 📁 Folder Structure
-urban-roast-website/
-├── Urbanroast-homepage-1.png
-├── urbanroast-theatre.png
-├── urbanroast-theatre-2.png
-├── urbanroast-menu.pdf
-└── README.md
-
----
-
-👨‍💻 Created by **Sreeram** as a portfolio project for web development roles.
-
+Developed by **Sreeram**  
+Live Site: [Urban Roast on Wix](https://sree20233.wixsite.com/urbanroast)
