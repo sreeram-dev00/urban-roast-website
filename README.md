@@ -17,7 +17,7 @@ A modern, mobile-responsive website for **Urban Roast Café & Private Party Thea
 ## Screenshots
 
 ### Homepage
-![Homepage](urbanroast-homepage.png)
+![Homepage](urbanroast-homepage-1.png)
 
 ### Theatre Booking
 ![Theatre](urbanroast-theatre.png)
